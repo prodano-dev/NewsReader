@@ -1,0 +1,3 @@
+# NewsReader 🗞
+
+SwiftUI Schoolproject
